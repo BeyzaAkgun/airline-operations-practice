@@ -1,0 +1,25 @@
+# Node / TypeScript
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Java
+out/
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Logs / operating system
+*.log
+.DS_Store
+Thumbs.db

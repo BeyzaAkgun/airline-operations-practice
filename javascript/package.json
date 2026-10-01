@@ -1,0 +1,13 @@
+{
+  "name": "airline-operations",
+  "version": "1.0.0",
+  "description": "JavaScript practice project for managing airline operations",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "Beyza Akgun",
+  "license": "ISC"
+}
